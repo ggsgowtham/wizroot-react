@@ -1,0 +1,14 @@
+.label_shape {
+    background: #FEFEFE 0% 0% no-repeat padding-box!important;
+    border-radius: 20px!important;
+    opacity: 1!important;
+    text-align: left!important;
+    font: normal normal medium 14px/19px Roboto!important;
+    letter-spacing: 0px!important;
+    text-transform: capitalize!important;
+    color: #000000!important;
+}
+
+.ui.active.label {
+    background: #00F0C2 0% 0% no-repeat padding-box !important;
+}
